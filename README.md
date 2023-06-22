@@ -1,2 +1,0 @@
-# .github
-Smart4it
